@@ -36,7 +36,11 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 - What are the main factors that affect the *track score* ?
 
 ## Results and findings
+Firstly, I investigated how the number of released songs has changed over the years till 2023 since at the moment of analysis 2024 is not finished yet.
 ![num_tracks_year](https://github.com/user-attachments/assets/c0a73bac-ff4a-4433-b2aa-a993b99637d5)
+We notice an exponential growth of the number of songs released from 2015. Moreover, while during 2015-2020 nearly 50 songs per year were released, in the last three years 2021-2023, the release rate nearly reaches 400 songs per year.
+
+
 
 ![months](https://github.com/user-attachments/assets/b325e110-08f2-47c6-98b9-e5ae585100b9)
 
