@@ -5,7 +5,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis-(eda))
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -27,8 +27,8 @@ The first step of this project regards the data loading and preprocessing. I per
 2. **Handling missing values**;
 3. **Data cleaning** (drop useless columns and duplicated) and **formatting**.
 
-### Exploratory Data Analysis (EDA)
-EDA process consists of exploring the dataset to answer key questions, such as:
+### Exploratory Data Analysis
+Exploratory Data Analysis (EDA) process consists of exploring the dataset to answer key questions, such as:
 - How has the number of released tracks changed over the years?
 - Does a preferred release month exist?
 - What are the most streamed songs and artists on Spotify? What about YouTube and TikTok?
