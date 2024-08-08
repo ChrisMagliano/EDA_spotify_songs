@@ -36,6 +36,7 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 - What are the main factors that affect the *track score* ?
 
 ## Results and findings
+![num_tracks_year](https://github.com/user-attachments/assets/c0a73bac-ff4a-4433-b2aa-a993b99637d5)
 
 ## Recommendations
 
