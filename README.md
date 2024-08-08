@@ -60,7 +60,7 @@ The most streamed artist on Spotify is **Bad Bunny** together with **The Weeknd*
 
 The top five artists for the number of released songs are **Taylor Swift, Drake, Bad Bunny, KAROL G** and **The Weeknd** as represented in figure below. 
 ![artists_tracks](https://github.com/user-attachments/assets/b3a7d3c7-a5d2-4137-b11c-00f302f477c7)
-However, we notice that while Taylor Swift and Drake are the most prolific artists (63 songs both) their overall track scores are the lowest. This is mainly a consequence of averaging on a larger dataset (number of tracks). I have verified that using the median in place of the mean does not change the results.  
+However, we notice that while Taylor Swift and Drake are the most prolific artists (63 songs both) their overall track scores are the lowest. This is mainly a consequence of averaging on a larger dataset (number of tracks). We verified that using the median in place of the mean does not change the results.  
 ![artists_score_tracks](https://github.com/user-attachments/assets/67346582-0801-47b1-8cf7-15fced0f7fb3)
 
 
