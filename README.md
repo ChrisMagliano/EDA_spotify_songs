@@ -19,7 +19,7 @@ In this project I have performed a complete Data Exploration of the most streame
 The dataset used in this project "Spotify_Refined_Explicity_classifed.csv" was retrieved on [Kaggle](https://www.kaggle.com/datasets/pragyantiwari/spotify-refined-explicity-classified-1). It contains 4600 different tracks and a total of 30 columns that provide with important information per each track, e.g. the release date, the artist, the track score, number of streams etc.
 
 ### Tools
-The whole data preprocessing and visualization has been performed by means of0 [Python](https://www.python.org/downloads/) language programming and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "Most Streamed Spotify Songs 2024.ipynb" file.
+The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "Most Streamed Spotify Songs 2024.ipynb" file.
 
 ### Data Cleaning/Preparation
 The first step of this project regards the data loading and preprocessing. I performed the following taks:
