@@ -78,5 +78,6 @@ Another important result we retrieve from the heatmap chart is that the number o
 ## Recommendations
 
 ## Limitations
+df['Spotify Streams'].max()
 
 ## References
