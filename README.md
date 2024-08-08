@@ -29,6 +29,11 @@ The first step of this project regards the data loading and preprocessing. I per
 
 ### Exploratory Data Analysis (EDA)
 EDA process consists of exploring the dataset to answer key questions, such as:
+- How does the number of released tracks changed over the years?
+- Does a preferred release month exist?
+- What are the most streamed songs and artists on Spotify? What about YouTube and TikTok?
+- Do explicit song have higher "track score" with respect to friendly ones?
+- What are the main factors that affect the *track score* ?
 
 ### Data Analysis
 
