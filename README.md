@@ -58,7 +58,11 @@ I examined which are the most streamed songs and artists on the three major plat
 The most streamed artist on Spotify is **Bad Bunny** together with **The Weeknd** with more than 35 billions ratings. Immediately after there is **Drake** with more than 30 billions streams. Regarding YouTube, the most rated artist is **Ed Sheeran** with more than 25 billions of listenings, followed by **Bad Bunny**. **Taylor Swift**, instead, is the third most streamed artits on YouTube reaching 20 billions plays. As already discussed for the track, also the most streamed artists on TikTok are not the most popular on the other two platforms. In fact, **Kevin MacLeod** and **The King Khan & BBQ Show** occupy the first and the second rank in this ranking thanks to their extremely viral soundtracks.
 ![most_streamed_artists](https://github.com/user-attachments/assets/4f5a18b0-803f-4bec-a0d9-71342bc74eab)
 
-![artists_tracks](https://github.com/user-attachments/assets/5f18f2f7-0aba-4894-8890-6ec2c14fd76f)
+The top five artists for the number of released songs are **Taylor Swift, Drake, Bad Bunny, KAROL G** and **The Weeknd** as represented in figure below. 
+![artists_tracks](https://github.com/user-attachments/assets/b3a7d3c7-a5d2-4137-b11c-00f302f477c7)
+However, we notice that while Taylor Swift and Drake are the most prolific artists (63 songs both) their overall track scores are the lowest. This is mainly a consequence of averaging on a larger dataset (number of tracks). I have verified that using the median in place of the mean does not change the results.  
+![artists_score_tracks](https://github.com/user-attachments/assets/67346582-0801-47b1-8cf7-15fced0f7fb3)
+
 
 
 The dataset under exam also provides information whether the track contains or not curse words or language deemed sexual, violent, or offensive in general. In particular each track has been classified according to a binary classification: explicit or friendly. As shown in figure below, the sample is highly unbalanced towards friendly tracks (76%) against the explicit content songs (24%).
