@@ -38,6 +38,12 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 ## Results and findings
 ![num_tracks_year](https://github.com/user-attachments/assets/c0a73bac-ff4a-4433-b2aa-a993b99637d5)
 
+![months](https://github.com/user-attachments/assets/b325e110-08f2-47c6-98b9-e5ae585100b9)
+
+![most_streamed_tracks](https://github.com/user-attachments/assets/d767cfe0-08c2-49f9-ac65-283d48d545f1)
+
+![most_streamed_artists](https://github.com/user-attachments/assets/77471030-9b4f-4321-a422-124afa9566b6)
+
 ## Recommendations
 
 ## Limitations
