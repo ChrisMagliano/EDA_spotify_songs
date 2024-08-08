@@ -38,7 +38,7 @@ Exploratory Data Analysis (EDA) process consists of exploring the dataset to ans
 ## Results and findings
 Firstly, I investigated how the number of released songs has changed over the years till 2023 since at the moment of analysis 2024 is not finished yet.
 ![num_tracks_year](https://github.com/user-attachments/assets/c0a73bac-ff4a-4433-b2aa-a993b99637d5)
-We notice an exponential growth of the number of songs released from 2015. Moreover, while during 2015-2020 nearly 50 songs per year were released, in the last three years 2021-2023, the release rate nearly reaches 400 songs per year.
+We notice an exponential growth of the number of songs released from 2015. Moreover, while during 2015-2020 nearly 50 songs per year were released, in the last three years 2021-2023, the release rate nearly reaches 400 songs per year. The growing number of released songs each year can be attributed to several factors. The rise of digital platforms and streaming services has made it easier for artists to distribute their music globally without the need for traditional record labels. Advances in technology have lowered the cost and complexity of music production, allowing more independent artists to create and release their work. Additionally, the increasing demand for diverse and niche music genres has encouraged more frequent releases to satisfy varied audience preferences.
 
 The plot below shows the number of tracks per months till 2023. 
 ![months](https://github.com/user-attachments/assets/b325e110-08f2-47c6-98b9-e5ae585100b9)
