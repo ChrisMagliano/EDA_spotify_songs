@@ -95,5 +95,5 @@ Another important result we retrieve from the heatmap chart is that the number o
 1. The dataset used in this project does not contain all the tracks on Spotify but just the *most streamed ones*. This means that there is a threshold value for the Spotify Streams. In fact, `df['Spotify Streams'].max()` is equale to 1071. Thus we are considering all Spotify track with more than 1071 streams.
 2. The datset contains many NaN values, even for columns of interest. We handled these values by replacing them with the median value of each column. We opted to use the median because more robust against the outliers. However, this always constitutes an approximation of the genuine dataset. 
 
-
 ## References
+None.
