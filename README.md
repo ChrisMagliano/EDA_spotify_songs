@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Data Cleaning/Preparation](#data-cleaning-&-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and findings](#results-and-findings)
 - [Recommendations](#recommendations)
@@ -21,7 +21,7 @@ The dataset used in this project "Spotify_Refined_Explicity_classifed.csv" was r
 ### Tools
 The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "Most Streamed Spotify Songs 2024.ipynb" file.
 
-### Data Cleaning/Preparation
+### Data Cleaning & Preparation
 The first step of this project regards the data loading and preprocessing. I performed the following taks:
 1. **Data loading and inspection**;
 2. **Handling missing values**;
