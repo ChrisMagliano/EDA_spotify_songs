@@ -76,9 +76,11 @@ These three matrices stress how the algorithm behind the three platforms works: 
 Another important result we retrieve from the heatmap chart is that the number of Spotify streams is quite strongly positive correlated with the number of Shazam counts. Thus, if people use Shazam to find the name of an unknown song then it is probably they will listen it again on Spotify. Moreover Spotify streams are negatively correlated with the release year thus suggesting the most streamed songs are also the newest one.
 
 ## Recommendations and Insights
-- Nowadays the music market is more accesible to everyone due to many technologies and platforms. This leads to an exponential growth of the number of tracks released every year;
+- Nowadays the music market is more accessible due to the existence of many technologies and platforms that allow users to communicate with public. This leads to an exponential growth of the number of tracks released every year;
 - There is not a clear and inequivocable ideal month to release a new track. However months like January and October seem to be slightly preferred;
-- 
+- The top 3 streamed songs on Spotify are: **Blinding Lights, Shape of You** and **As It Was**. The top 3 viewed songs on YouTube are: **Baby Shark, Despacito** and **Shape of You**. Thus, *Shape of You* is the only song that is contained in both top 3 ranks. TikTok most reproduced songs are typically soundtracks that well fit with viral videos. The top 3 listened artists on Spotify are: **Bad Bunny, The Weekend** and **Drake**. The top 3 listened artists on YouTube are: **Ed Sheeran, Bad Bunny** and **Taylor Swift**. Finally, the top 3 listened artists on TikTok are **Kevin MacLeod, The King Khan & BBQ Show** and **Kreepa**;
+- There is not a statistical significant difference in *Track Score* between explicit and friendly songs;
+- The *Track Score* is a complex feature that poorly correlates with all the factors taken into account. However it is slightly positive correlated with the `Spotify Playlist Reach` and the `Spotify Popularity`.
 
 ## Limitations
 1. The dataset used in this project does not contain all the tracks on Spotify but just the *most streamed ones*. This means that there is a threshold value for the Spotify Streams. In fact, `df['Spotify Streams'].max()` is equale to 1071. Thus we are considering all Spotify track with more than 1071 streams.
