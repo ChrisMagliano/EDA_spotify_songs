@@ -68,7 +68,7 @@ However, we notice that while Taylor Swift and Drake are the most prolific artis
 The dataset under exam also provides information whether the track contains or not curse words or language deemed sexual, violent, or offensive in general. In particular each track has been classified according to a binary classification: explicit or friendly. As shown in figure below, the sample is highly unbalanced towards friendly tracks (76%) against the explicit content songs (24%).
 ![class_pie](https://github.com/user-attachments/assets/11168980-6044-44e3-a591-172c237c1eed)
 
-However, no statistical significant difference arose between the mean track score of the two classes.
+However, no statistical significant difference arose between the mean track score of the two classes (41.46 for friendly songs and 42.8 for explicit tracks).
 ![track_score_class](https://github.com/user-attachments/assets/05e5596b-5183-4a95-9eee-92c2ffa262c5)
 
 
