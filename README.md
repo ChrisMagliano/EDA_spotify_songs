@@ -16,16 +16,18 @@
 In this project I have performed a complete Data Exploration of the most streamed Spotify songs up to 2024. By analyzing several metrics of Spotify tracks, I aim at identifying trends, records and gain a deeper understanding of the music market's logic.
 
 ### Data Sources
-The dataset used in this project "Spotify_Refined_Explicity_classifed.csv" was retrieved on [Kaggle](https://www.kaggle.com/datasets/pragyantiwari/spotify-refined-explicity-classified-1). It contains 4600 different tracks and a total of 30 columns that provide with important information per each track, e.g. the release date, the artist, the track score, number of streams etc.
+The dataset used in this project `Spotify_Refined_Explicity_classifed.csv` was retrieved on [Kaggle](https://www.kaggle.com/datasets/pragyantiwari/spotify-refined-explicity-classified-1). It contains 4600 different tracks and a total of 30 columns that provide with important information per each track, e.g. the release date, the artist, the track score, number of streams etc.
 
 ### Tools
-The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the "Most Streamed Spotify Songs 2024.ipynb" file.
+The whole data preprocessing and visualization has been performed by means of [Python](https://www.python.org/downloads/) programming language and [Jupyter Notebook](https://jupyter.org/install) platform. It is accessible throughout the `Most Streamed Spotify Songs 2024.ipynb` file.
 
 ### Data Cleaning and Preparation
 The first step of this project regards the data loading and preprocessing. I performed the following taks:
 1. **Data loading and inspection**;
 2. **Handling missing values**;
 3. **Data cleaning** (drop useless columns and duplicated) and **formatting**.
+
+All the details about this step are contained in the `Most Streamed Spotify Songs 2024.ipynb` jupyter notebook.
 
 ### Exploratory Data Analysis
 Exploratory Data Analysis (EDA) process consists of exploring the dataset to answer key questions, such as:
